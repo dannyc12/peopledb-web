@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/peopledb-web/peopledb-web.iml" filepath="$PROJECT_DIR$/peopledb-web/peopledb-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/peopledb-web (1).iml" filepath="$PROJECT_DIR$/.idea/peopledb-web (1).iml" />
+    </modules>
+  </component>
+</project>
